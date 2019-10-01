@@ -161,9 +161,5 @@ while (res == ''):
         sleep(0.5)
         clear()
         main() 
-   
-    
-        
-                
 
 
