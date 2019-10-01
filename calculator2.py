@@ -107,7 +107,7 @@ def calculate(num):
                     n -= 1
             n += 1 
                  
-        print("\nAnswer: "+num[0])
+        print(f"\nAnswer: {num[0]}")
     except ZeroDivisionError:
         while res != '':
             print("\nDivision by zero it's not valid, try again.")
